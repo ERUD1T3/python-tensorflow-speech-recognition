@@ -1,13 +1,3 @@
-Simple scripts to interact with Google speech services.
+Forked from jeysonmc/python-google-speech-scripts
 
-tts_google.py : Text to speech.
-
-stt_google.py: Speech to text.
-
-I only tested it on Linux.
-
-REQUIREMENTS:
-
-- pyaudio
-
-- flac (FLAC converter for Linux)
+Edits are for removing google speech recognition and dicvert it to local tensorflow speech recognition
