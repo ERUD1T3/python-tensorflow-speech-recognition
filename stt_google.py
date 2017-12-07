@@ -101,7 +101,7 @@ def listen_for_speech(threshold=THRESHOLD, num_phrases=-1):
             filename = save_speech(list(prev_audio) + audio2send, p)
             #filename has the audio file
             #todo call tensorflow here
-            
+            print "voice detected"
             
             
             # Send file to Google and get response
