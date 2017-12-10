@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-"""Runs a trained audio graph against a WAVE file and reports the results.
+r"""Runs a trained audio graph against a WAVE file and reports the results.
 
 The model, labels and .wav file specified in the arguments will be loaded, and
 then the predictions from running the model against the audio data will be
