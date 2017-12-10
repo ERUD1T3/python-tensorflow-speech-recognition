@@ -23,7 +23,7 @@ for i in range(0, int(RATE / CHUNK * RECORD_SECONDS)):
 print "finished recording"
  
  
-# stop Recording
+# stop Recording 
 stream.stop_stream()
 stream.close()
 audio.terminate()
