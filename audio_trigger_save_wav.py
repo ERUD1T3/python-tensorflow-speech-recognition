@@ -71,7 +71,7 @@ def audio_int(num_samples=50):
 
 
 if(__name__ == '__main__'):
-    audio_int()  # To measure your mic levels
+    audio_int()  # To measure  your mic levels
 
 
 
