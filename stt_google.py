@@ -143,5 +143,5 @@ def save_speech(data, p):
     return filename + '.wav'
 
 if(__name__ == '__main__'):
-    listen_for_speech()  # listen to mic.
+    listen_for_speech()  # listen to mic. 
     #audio_int()  # To measure your mic levels
